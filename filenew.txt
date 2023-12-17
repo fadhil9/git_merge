@@ -1,1 +1,2 @@
 ini khusus untuk git branch
+ini untuk error conflict assndsa
