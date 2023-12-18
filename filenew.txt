@@ -1,2 +1,3 @@
 ini khusus untuk git branch
 ini untuk melakukan testing conflict
+sasdasdgit
